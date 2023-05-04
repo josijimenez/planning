@@ -55,10 +55,7 @@ INSTALLED_APPS = [
     "home",
     "users",
     'eods.apps.EodsConfig',
-<<<<<<<<< Temporary merge branch 1
     "planning",
-=========
->>>>>>>>> Temporary merge branch 2
 ]
 
 MIDDLEWARE = [
